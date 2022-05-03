@@ -1,0 +1,170 @@
+{
+  "products": [
+    {
+      "id": 6683939,
+      "title": "Blue *",
+      "description": "A beautiful blue t-shirt with a square"
+    },
+    {
+      "id": 6683586,
+      "title": "Gray",
+      "description": "A beautiful gray t-shirt without details"
+    },
+    {
+      "id": 6683723,
+      "title": "White",
+      "description": "A beautiful white t-shirt with a symbol"
+    },
+    {
+      "id": 6683928,
+      "title": "Pink *",
+      "description": "A beautiful pink t-shirt with a square"
+    },
+    {
+      "id": 6683713,
+      "title": "Yellow",
+      "description": "A beautiful yellow t-shirt with a text"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": "1",
+      "email": "alanmdiniz@gmail.com",
+      "date": "2022-05-02T18:25:43.511Z",
+      "products": [
+        {
+          "product": {
+            "id": 6683586,
+            "title": "Gray",
+            "description": "A beautiful gray t-shirt without details"
+          },
+          "amount": 2
+        },
+        {
+          "product": {
+            "id": 6683939,
+            "title": "Blue *",
+            "description": "A beautiful blue t-shirt with a square"
+          },
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "28580c73-e954-43f3-9b77-f0988674081f",
+      "date": "2022-05-03T19:09:04.621Z",
+      "userId": 1,
+      "email": "asdasdasda",
+      "products": [
+        {
+          "product": {
+            "id": 6683586,
+            "title": "Gray",
+            "description": "A beautiful gray t-shirt without details"
+          },
+          "quantity": 3
+        },
+        {
+          "product": {
+            "id": 6683939,
+            "title": "Blue *",
+            "description": "A beautiful blue t-shirt with a square"
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "779150ae-915f-4f4b-a8a0-45cbcc8bcd05",
+      "date": "2022-05-03T19:11:02.420Z",
+      "userId": 1,
+      "email": "teste2",
+      "products": [
+        {
+          "product": {
+            "id": 6683586,
+            "title": "Gray",
+            "description": "A beautiful gray t-shirt without details"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": 6683939,
+            "title": "Blue *",
+            "description": "A beautiful blue t-shirt with a square"
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "116f9d4c-9f64-4489-a728-f219936311b9",
+      "date": "2022-05-03T19:14:55.413Z",
+      "userId": 1,
+      "email": "teste3",
+      "products": [
+        {
+          "product": {
+            "id": 6683723,
+            "title": "White",
+            "description": "A beautiful white t-shirt with a symbol"
+          },
+          "quantity": 2
+        },
+        {
+          "product": {
+            "id": 6683586,
+            "title": "Gray",
+            "description": "A beautiful gray t-shirt without details"
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "259ae36d-93d3-44e9-8952-bb524c33ed59",
+      "date": "2022-05-03T19:32:53.308Z",
+      "userId": 1,
+      "email": "teste3",
+      "products": [
+        {
+          "product": {
+            "id": 6683586,
+            "title": "Gray",
+            "description": "A beautiful gray t-shirt without details"
+          },
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "alan",
+      "date": "2022-05-01T10:20:43.511Z"
+    },
+    {
+      "id": 2,
+      "username": "john",
+      "date": "2022-05-01T14:20:43.511Z"
+    },
+    {
+      "id": 3,
+      "username": "mary",
+      "date": "2022-05-01T12:20:43.511Z"
+    },
+    {
+      "id": 4,
+      "username": "paul",
+      "date": "2022-05-01T09:20:43.511Z"
+    },
+    {
+      "id": 5,
+      "username": "mike",
+      "date": "2022-05-01T10:20:43.511Z"
+    }
+  ]
+}
